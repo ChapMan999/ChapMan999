@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Yuriy Shadrinov
+- 👋 Hi,
+- I’m Yuriy Shadrinov
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programing
 - 📫 How to reach me: chinchopa41@gmail.com
