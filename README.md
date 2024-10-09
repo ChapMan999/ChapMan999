@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ChapMan999
+- 👋 Hi, I’m Yuriy Shadrinov
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programing
-- 📫 How to reach me: no way
+- 📫 How to reach me: chinchopa41@gmail.com
 - 😄 Pronouns: He
 - 
 
